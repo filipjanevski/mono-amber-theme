@@ -1,0 +1,9 @@
+[Scheme]
+Name=MonoPro
+ColorCursor=#fcfcfa
+ColorForeground=#fcfcfa
+ColorBackground=#403e41
+TabActivityColor=#ffd866
+ColorPalette=#403E41;#FF6188;#A9DC76;#FFD866;#FC9867;#AB9DF2;#78DCE8;#EEF0E5;#6A664C;#FF6188;#A9DC76;#FFD866;#FC9867;#AB9DF2;#78DCE8;#FFFFFF
+ColorBold=#D8DEE9
+ColorBoldUseDefault=FALSE
