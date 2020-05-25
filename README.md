@@ -10,4 +10,4 @@ sudo cp mono-amber.theme /usr/share/xfce4/terminal/colorschemes/
 
 ## Screenshot
 
-![Screenshot]()
+![Screenshot](screenshot.png)
